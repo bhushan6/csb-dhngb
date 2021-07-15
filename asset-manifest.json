@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "https://bhushan6.github.io/csb-dhngb/static/css/main.1585a22c.chunk.css",
+    "main.js": "https://bhushan6.github.io/csb-dhngb/static/js/main.6fd5baa8.chunk.js",
+    "main.js.map": "https://bhushan6.github.io/csb-dhngb/static/js/main.6fd5baa8.chunk.js.map",
+    "runtime-main.js": "https://bhushan6.github.io/csb-dhngb/static/js/runtime-main.540ed2c9.js",
+    "runtime-main.js.map": "https://bhushan6.github.io/csb-dhngb/static/js/runtime-main.540ed2c9.js.map",
+    "static/js/2.6ccb158b.chunk.js": "https://bhushan6.github.io/csb-dhngb/static/js/2.6ccb158b.chunk.js",
+    "static/js/2.6ccb158b.chunk.js.map": "https://bhushan6.github.io/csb-dhngb/static/js/2.6ccb158b.chunk.js.map",
+    "index.html": "https://bhushan6.github.io/csb-dhngb/index.html",
+    "static/css/main.1585a22c.chunk.css.map": "https://bhushan6.github.io/csb-dhngb/static/css/main.1585a22c.chunk.css.map",
+    "static/js/2.6ccb158b.chunk.js.LICENSE.txt": "https://bhushan6.github.io/csb-dhngb/static/js/2.6ccb158b.chunk.js.LICENSE.txt",
+    "static/media/Broucher.0aa62824.glb": "https://bhushan6.github.io/csb-dhngb/static/media/Broucher.0aa62824.glb",
+    "static/media/Display.e82bb76c.glb": "https://bhushan6.github.io/csb-dhngb/static/media/Display.e82bb76c.glb",
+    "static/media/FrontWall.ead950a7.glb": "https://bhushan6.github.io/csb-dhngb/static/media/FrontWall.ead950a7.glb",
+    "static/media/Grey Noise Normal.01faed7d.jpg": "https://bhushan6.github.io/csb-dhngb/static/media/Grey Noise Normal.01faed7d.jpg",
+    "static/media/Grey Noise.9708d7b4.jpg": "https://bhushan6.github.io/csb-dhngb/static/media/Grey Noise.9708d7b4.jpg",
+    "static/media/KTv.9bbf4b92.glb": "https://bhushan6.github.io/csb-dhngb/static/media/KTv.9bbf4b92.glb",
+    "static/media/LeftWall.bbc8020b.glb": "https://bhushan6.github.io/csb-dhngb/static/media/LeftWall.bbc8020b.glb",
+    "static/media/LightMap.e3b8bece.jpg": "https://bhushan6.github.io/csb-dhngb/static/media/LightMap.e3b8bece.jpg",
+    "static/media/Reception2.a8f9b458.glb": "https://bhushan6.github.io/csb-dhngb/static/media/Reception2.a8f9b458.glb",
+    "static/media/ReceptionDraco.89e65baa.glb": "https://bhushan6.github.io/csb-dhngb/static/media/ReceptionDraco.89e65baa.glb",
+    "static/media/RightWallDraco.ca62b60b.glb": "https://bhushan6.github.io/csb-dhngb/static/media/RightWallDraco.ca62b60b.glb",
+    "static/media/Side_Walls_AO.c42d3260.jpg": "https://bhushan6.github.io/csb-dhngb/static/media/Side_Walls_AO.c42d3260.jpg",
+    "static/media/Side_Walls_emisionmaop.1895acb6.jpg": "https://bhushan6.github.io/csb-dhngb/static/media/Side_Walls_emisionmaop.1895acb6.jpg",
+    "static/media/Standee.0f9108cc.glb": "https://bhushan6.github.io/csb-dhngb/static/media/Standee.0f9108cc.glb",
+    "static/media/VCTable.355cbc60.glb": "https://bhushan6.github.io/csb-dhngb/static/media/VCTable.355cbc60.glb",
+    "static/media/type1-centerDraco.b6c7a8a8.glb": "https://bhushan6.github.io/csb-dhngb/static/media/type1-centerDraco.b6c7a8a8.glb",
+    "static/media/type1-cornerDraco.700b4537.glb": "https://bhushan6.github.io/csb-dhngb/static/media/type1-cornerDraco.700b4537.glb",
+    "static/media/type2-centerDraco.aaaf0ff7.glb": "https://bhushan6.github.io/csb-dhngb/static/media/type2-centerDraco.aaaf0ff7.glb",
+    "static/media/type2-cornerDraco.55c842d8.glb": "https://bhushan6.github.io/csb-dhngb/static/media/type2-cornerDraco.55c842d8.glb",
+    "static/media/type3-centerDraco.a415ebce.glb": "https://bhushan6.github.io/csb-dhngb/static/media/type3-centerDraco.a415ebce.glb",
+    "static/media/type3-cornerDraco.1d6cb66c.glb": "https://bhushan6.github.io/csb-dhngb/static/media/type3-cornerDraco.1d6cb66c.glb"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.540ed2c9.js",
+    "static/js/2.6ccb158b.chunk.js",
+    "static/css/main.1585a22c.chunk.css",
+    "static/js/main.6fd5baa8.chunk.js"
+  ]
+}
